@@ -80,10 +80,10 @@ class life_admin_menu {
 			h = (1 / 25);
 		};
 		
-		class Compensate : Life_RscButtonMenu {
+		class License : Life_RscButtonMenu {
 			idc = 2904;
-			text = "$STR_Admin_Compensate";
-			onButtonClick = "createDialog ""Life_Admin_Compensate"";";
+			text = "$STR_Admin_License";
+			onButtonClick = "[] call life_fnc_adminLicense;";
 			x = 0.26 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
 			y = 0.88 - (1 / 25);
 			w = (6.25 / 40);

@@ -41,7 +41,7 @@ class Life_Client_Core
 		class adminTeleport {};
 		class adminTpHere {};
 		class adminDebugCon {};
-		class adminCompensate {};
+		class adminLicense {};
 		class adminGodMode {};
 		class adminFreeze {};
 		class adminMarkers {};

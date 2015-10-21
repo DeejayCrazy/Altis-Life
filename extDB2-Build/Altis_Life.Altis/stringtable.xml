@@ -239,11 +239,11 @@
 			<German>Debug</German>
 			<French>Debug</French>
 		</Key>
-		<Key ID="STR_Admin_Compensate">
-			<Original>Comp</Original>
-			<English>Comp</English>
-			<German>Comp</German>
-			<French>Comp</French>
+		<Key ID="STR_Admin_License">
+			<Original>License</Original>
+			<English>License</English>
+			<German>License</German>
+			<French>License</French>
 		</Key>
 		<Key ID="STR_Admin_God">
 			<Original>GodMode</Original>
@@ -262,12 +262,6 @@
 			<English>Markers</English>
 			<German>Markers</German>
 			<French>Markers</French>
-		</Key>
-		<Key ID="STR_ANOTF_CompWarn">
-			<Original>You are about to give yourself $%1 to compensate to another player &lt;br/&gt;&lt;br/&gt;You must give this cash to the person you are compensating manually.</Original>
-			<English>You are about to give yourself $%1 to compensate to another player &lt;br/&gt;&lt;br/&gt;You must give this cash to the person you are compensating manually.</English>
-			<German>To Be Changed</German>
-			<French>Vous êtes sur le point de vous donner $%1 pour compenser à un autre joueur &lt;br/&gt;&lt;br/&gt; S'il vous plaît donner à cette à la personne vous compensez manuellement</French>
 		</Key>
 		<Key ID="STR_ANOTF_Success">
 			<Original>You have added $%1 to your account.</Original>
